@@ -1,0 +1,280 @@
+/* this is css comments */
+/* The top part of my website  */
+
+
+/* change colour for everything */
+
+/*  ....................................This is the styling for the home page ..............................*/
+
+#navbar {
+    margin: 0px 0px 0px 0px;
+    font-size: 30px;
+    display: flex;
+    justify-content: flex-end;
+    background-color: RGB(146, 168, 209);
+    color: black;
+    
+}
+#navbar a {
+    margin-left: 30px;
+
+}
+
+#Start {
+    background-image: url("images/image.jfif")
+
+}
+.title {
+    margin: 0px 0px 0px 0px;
+    padding: 50px;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+
+.home1title {
+    margin: 0px 0px 0px 0px;
+    padding: 60px;
+    font-size: 40px;
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
+.home2title {
+    margin: 0px 0px 0px 0px;
+    padding: 60px;
+    font-size: 40px;
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
+.Home1 {
+    margin: 0px 0px 0px 3px;
+    padding: 0px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: black;
+    
+  }
+.Home2 {
+    margin: 0px;
+    padding: 0px;
+    color: black; 
+    font-size: 30px;
+    display:flex;
+    justify-content: left;
+}
+
+.Home {
+    background-color:  #add8e6;
+
+}
+
+
+/* This is a how to target an element in html */
+/* select differently is allowed by classes using div in html */
+
+    /* background-image: url("images/image3.jpg"); */
+
+
+
+.Home3 { 
+    padding: 10px;
+    color: black;
+    font-size: 30px;
+    display: flex;
+    justify-content: flex-start;
+    text-align: left;
+    background-color:  #add8e6;
+}
+#photo3 {
+    margin: 0px 20px 20px 20px;
+    padding: 10px;
+    height: 400px;
+    width: 20%;
+    display: block;
+    justify-content: flex-start;
+}
+
+
+/* .......................................This is the styling for the first page................................................. */
+
+
+
+
+#links {
+    margin: 0px 0px 0px 0px;
+    font-size: 25px;
+    text-align: center;
+    background-color: #add8e6;
+    color: blue;
+    
+}
+#links a {
+    margin-left: 30px;
+}
+#aboutme1 {
+    background-image: url(images/image3.jpg);
+}
+
+
+
+.aboutme {
+    margin: 0px 0px 0px 0px;
+    display: flex;
+    justify-content: center;
+    color: blue;
+    font-size: 30px;
+    text-align: left;
+
+}
+
+.title_aboutme {
+    margin: 30px;
+    padding: 30px;
+    text-align: center;
+    font-size: 40px
+
+}
+
+.experience {
+    font-size: 30px;
+    border: solid 5px red;
+    
+}
+.intro {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px
+}
+
+.projects_desc {
+    font-size: 30px;
+    padding: 10px;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    text-align: end;
+}
+
+#photo_lab {
+    margin: 0px 20px 20px 20px;
+    width: 20%;
+    display: block;
+    justify-content: flex-start; 
+}
+
+
+.labwork {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    font-size: 30px
+
+}
+#ha {
+    margin: 0px 20px 20px 20px;
+    width: 20%;
+    display: block;
+    justify-content: flex-start;
+
+}
+.healthcare {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    font-size: 30px
+
+}
+
+#t {
+    margin: 0px 20px 20px 20px;
+    width: 20%;
+    display: block;
+    justify-content: flex-start;
+
+}
+.teaching {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    font-size: 30px
+
+}
+
+
+
+/* .......................................This is the styling for the second page...................................................... */
+
+
+
+.title_projects {
+    text-align: center;
+    font-size: 40px;
+    background-color: beige; 
+
+}
+
+.projects{
+    font-size: 30px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.projects1 {
+    font-size: 30px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+#proteomics {
+    margin: 0px 20px 20px 20px;
+    padding: 20px;
+    width: 20%;
+    display: block;
+    justify-content: flex-start; 
+}
+
+
+.projects2 {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    font-size: 30px
+
+}
+#database {
+    margin: 0px 20px 20px 20px;
+    width: 70%;
+    padding: 20px;
+    display: block;
+    justify-content: flex-start;
+
+}
+.projects3 {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    font-size: 30px
+
+}
+
+#textgame {
+    margin: 0px 20px 20px 20px;
+    width: 20%;
+    padding: 20px;
+    display: block;
+    justify-content: flex-start;
+
+}
+
+
+
+
+
+
+
